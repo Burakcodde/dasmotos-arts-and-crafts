@@ -1,0 +1,48 @@
+header {
+  background-image: url("./images/pattern.jpeg");
+}
+
+h1 {
+  font-family: "Helvetica", Arial, sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+#brushes h2 {
+  font-family: "Helvetica", Arial, sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+  padding: 10px;
+}
+
+#frames h2 {
+  font-family: "Helvetica", Arial, sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+  padding: 10px;
+}
+
+#paint h2 {
+  font-family: "Helvetica", Arial, sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+  padding: 10px;
+}
+
+h3 {
+  font-family: "Helvetica", Arial, sans-serif;
+}
+
+span {
+  font-family: "Helvetica", Arial, sans-serif;
+  font-weight: bold;
+  color: blue;
+}
